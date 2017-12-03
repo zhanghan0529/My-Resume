@@ -1,3 +1,41 @@
+# 张翰
+  前端开发
+  
+  - 年龄:25
+  - 城市:宁波
+  - Email:240629647@qq.com
+  - tel:15168412418
+  - wechat:kk240629647
+  - github: https://github.com/zhanghan0529
+  ---
+
+### 教育经历
+- 杭州师范大学钱江学院
+- 计算机科学与技术 （本科）
+- 2012.09 - 2016.06
+
+---
+### 项目经验
+[仿网易云音乐](https://github.com/zhanghan0529/163_Music)
+
+- 技术栈： HTML CSS(CSS3) Javascript jQuery ajax
+
+- 描述:一个移动端页面应用，在网上download数据，并用线上数据库做后台支持，利用ajax调用展示出首页，热榜，搜索等页面功能。运 用HTML5+CSS3实现播放页面，歌词准确提示。
+
+[Vue实现在线简历编辑](http://sfxxx.me/resume-Vue/dist/)
+
+- 技术栈：Vuejs Vuex HTML CSS ajax
+
+- 描述：这是一个在线简历编辑器，实现了简历预览。运用vue-cli + webpack进行模块化开发，利用scss进行css预处理编写，用vuex实现数据的单项绑定，过程中加深对vuejs应用MVVM框架的原理，对模块化编程进一步加深了解。
+
+个人作品集
+ 
+- [瀑布流新闻加载](http://sfxxx.me/waterFall/news-waterfall-lazyload.html)
+
+- [某介绍首页](http://sfxxx.me/modular-page-1/index.html)
+
+ ---
+
 ### 项目经验
 [仿网易云音乐](https://github.com/zhanghan0529/163_Music)
 
